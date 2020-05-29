@@ -2,6 +2,6 @@
 gatherbot in discord
 
 
-##Task tracking
+## Task tracking
 
 -make enviroments (dev/prod)
