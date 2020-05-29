@@ -1,0 +1,2 @@
+# SoldatGatherBot
+gatherbot in discord
