@@ -1,0 +1,11 @@
+{
+  "bot_name": "testBot",
+  "token": "NzE1NjQwOTA0MTQwMTkzODQ0.XtDURQ.cg1g2s82a1vlaboQ6L9WMe1mZJ0",
+  "prefix": "!",
+  "channels": {
+    "gather": "715202607009890325",
+    "logs": "715860608372965376",
+    "admin": "715863270455771196",
+    "bot_admin": "298124615639629836"
+  }
+}

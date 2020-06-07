@@ -1,0 +1,37 @@
+{
+  "name": "soldatgatherbot",
+  "version": "1.0.0",
+  "description": "gather bot in discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "ts-node index.ts dev",
+    "prod": "ts-node index.ts prod"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PatrykMaternicki/SoldatGatherBot.git"
+  },
+  "keywords": [
+    "gather-bot"
+  ],
+  "author": "patrykMaternicki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PatrykMaternicki/SoldatGatherBot/issues"
+  },
+  "homepage": "https://github.com/PatrykMaternicki/SoldatGatherBot#readme",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "discord.js": "^12.2.0",
+    "node-ts": "^5.0.5",
+    "nodemon": "^2.0.4",
+    "ts-node": "^8.10.2"
+  },
+  "devDependencies": {
+    "@types/jest": "^25.2.3",
+    "jest": "^26.0.1",
+    "ts-jest": "^26.1.0",
+    "typescript": "^3.9.3"
+  }
+}

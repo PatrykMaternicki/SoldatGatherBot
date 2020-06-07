@@ -1,0 +1,9 @@
+{
+    "commands": [
+        {
+            "name": "hello",
+            "disable": false,
+            "roles_use" : []
+        }
+    ]
+}
